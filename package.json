@@ -1,0 +1,26 @@
+{
+  "name": "aa2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "start": " node app.js"
+=======
+     "start": "node app.js"
+>>>>>>> b22a8d09c8b2a425b5a02716eb6941acaf644d68
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.1"
+  }
+}
